@@ -6,7 +6,7 @@ Submitted by: Khandaker Hossain
 
 Time spent: 6 hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: (insert your link here, should start with https://glitch.com/edit/#!/codepath-prework-2022?path=README.md%3A1%3A0)
 
 ## Required Functionality
 
