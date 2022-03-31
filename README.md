@@ -39,6 +39,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 ![game won](https://user-images.githubusercontent.com/90944924/161123836-987d291d-b9d2-4f56-91ff-180390b44029.gif)
 ![3 mistakes](https://user-images.githubusercontent.com/90944924/161123880-dbe5d9ff-397c-493c-8dad-07f5c62a25b5.gif)
+![stop](https://user-images.githubusercontent.com/90944924/161125627-1cd6c8f8-62df-4189-8213-fa785bbca83a.gif)
 
 
 ## Reflection Questions
