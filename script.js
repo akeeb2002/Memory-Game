@@ -20,7 +20,7 @@ function createPattern()
   var thePattern = [];
   for(let i=0; i<8; i++)
     {
-      thePattern[i] = Math.floor(Math.random() * 6) + 1;
+      thePattern[i] = Math.floor(Math.random() * 8) + 1;
     }
   console.log(thePattern);
   return thePattern;
