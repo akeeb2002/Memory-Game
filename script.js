@@ -37,7 +37,7 @@ function startGame(){
 document.getElementById("startBtn").classList.add("hidden");
 document.getElementById("stopBtn").classList.remove("hidden");
   playClueSequence();
-  n= setInterval(function(){document.getElementById("seconds").innerHTML=String(timeleft); timeleft--; if(timeleft==0){
+  n= setInterval(function(){document.getElementById("seconds").innerHTML=String(timeleft); timeleft--; if(timeleft<0){
       clearInterval(n); timeleft=7;loseGame();
     }},1000);
 }
