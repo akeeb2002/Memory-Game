@@ -37,7 +37,9 @@ The following **additional** features are implemented:
 - [ ] List anything else that you can get done to improve the app!
 
 ## Video Walkthrough (GIF)
-![img](https://i.imgur.com/jKui783.mp4)
+![game won](https://user-images.githubusercontent.com/90944924/161123836-987d291d-b9d2-4f56-91ff-180390b44029.gif)
+![3 mistakes](https://user-images.githubusercontent.com/90944924/161123880-dbe5d9ff-397c-493c-8dad-07f5c62a25b5.gif)
+
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
