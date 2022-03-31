@@ -38,13 +38,8 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough (GIF)
 ![new new video 1](https://user-images.githubusercontent.com/90944924/161111559-22e096b7-9785-41cb-afe0-2333405f6580.gif)
-https://im5.ezgif.com/tmp/ezgif-5-470ab9ba94.gif
 
 
-
-![](gif2-link-here)
-![](gif3-link-here)
-![](gif4-link-here)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
