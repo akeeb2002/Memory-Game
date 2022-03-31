@@ -20,11 +20,13 @@ function createPattern()
   var thePattern = [];
   for(let i=0; i<8; i++)
     {
-      thePattern[i] = Math.floor(Math.random() * 6) + 1;
+      thePattern[i] = Math.floor(Math.random() * 8) + 1;
     }
   console.log(thePattern);
   return thePattern;
 }
+
+
 
 function startGame(){
   timeleft=7;
@@ -53,10 +55,10 @@ document.getElementById("stopBtn").classList.add("hidden");
 
 // Sound Synthesis Functions
 const freqMap = {
-  1: 261.6,
+  1: 251.6,
   2: 329.6,
-  3: 392,
-  4: 466.2,
+  3: 390,
+  4: 460.2,
   5: 500,
   6: 450,
   7: 300,
