@@ -26,6 +26,8 @@ function createPattern()
   return thePattern;
 }
 
+
+
 function startGame(){
   timeleft=7;
   mistakes = 0;
@@ -53,10 +55,10 @@ document.getElementById("stopBtn").classList.add("hidden");
 
 // Sound Synthesis Functions
 const freqMap = {
-  1: 261.6,
+  1: 251.6,
   2: 329.6,
-  3: 392,
-  4: 466.2,
+  3: 390,
+  4: 460.2,
   5: 500,
   6: 450,
   7: 300,

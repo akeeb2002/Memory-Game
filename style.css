@@ -134,6 +134,7 @@ video {
 button > img {
   display: none;
 }
+
 button > img.pressed {
   display: inline;
   width: 170px;
