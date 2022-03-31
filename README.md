@@ -40,6 +40,7 @@ The following **additional** features are implemented:
 ![game won](https://user-images.githubusercontent.com/90944924/161123836-987d291d-b9d2-4f56-91ff-180390b44029.gif)
 ![3 mistakes](https://user-images.githubusercontent.com/90944924/161123880-dbe5d9ff-397c-493c-8dad-07f5c62a25b5.gif)
 ![stop](https://user-images.githubusercontent.com/90944924/161125627-1cd6c8f8-62df-4189-8213-fa785bbca83a.gif)
+![do nothing](https://user-images.githubusercontent.com/90944924/161127207-88a43d3b-305b-48b1-929e-b199ddc1c2b0.gif)
 
 
 ## Reflection Questions
