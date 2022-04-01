@@ -40,7 +40,7 @@ The following **additional** features are implemented:
 ![game won](https://user-images.githubusercontent.com/90944924/161123836-987d291d-b9d2-4f56-91ff-180390b44029.gif)
 ![stop](https://user-images.githubusercontent.com/90944924/161125627-1cd6c8f8-62df-4189-8213-fa785bbca83a.gif)
 ![new nothing](https://user-images.githubusercontent.com/90944924/161129216-6e13909f-3fc0-4bc9-be1f-6803b562a54c.gif)
-
+![3 mistakes PM](https://user-images.githubusercontent.com/90944924/161184583-24de76af-f77c-4a77-9c61-9de8932984bd.gif)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
