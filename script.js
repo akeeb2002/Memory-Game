@@ -180,12 +180,9 @@ function guess(btn){
     if(mistakes==2){
       alert("WARNING: Two Mistake");
     }
-    if(mistakes==3){
-      alert("WARNING: Three Mistake");
-    }
     //Guess was incorrect
     //GAME OVER: LOSE!
-    if(mistakes>=4){
+    if(mistakes>=3){
       loseGame();
     }
   }
