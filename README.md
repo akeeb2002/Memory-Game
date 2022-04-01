@@ -44,7 +44,7 @@ The following **additional** features are implemented:
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-        Youtube: watched tutorial on how to use setInterval and clearInterval methods to create the timer
+                                    Youtube: watched tutorial on how to use setInterval and clearInterval methods to create the timer
 w3schools.com: Gave brief explanations about incorporating images into the buttons, setInterval, clearInterval, and showed the different selection of colors used for the buttons
 Mozilla: math.random function
 StackOverflow: looked at old code as a preference for random function
